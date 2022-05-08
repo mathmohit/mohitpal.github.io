@@ -12,7 +12,7 @@ I am a visiting student at the [Indian Statistical Institute Delhi](https://www.
 
 ## Educational Background
 
-- Apr'22-till date, Visiting Student, Indian Institute of Technology Delhi.
+- Apr'22-till date, Visiting Student, Indian Statistical Institute Delhi.
 - Dec'21-Mar'22, Project Fellow, Indian Institute of Technology Jammu.
 - July'18-Oct'21, Ph.D. in Mathematics, Indian Institute of Technology Jammu.
 - July'18-May'19, Visiting Student, Indian Institute of Technology Delhi.
