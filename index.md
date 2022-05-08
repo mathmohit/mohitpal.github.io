@@ -15,6 +15,3 @@ I am a visiting student at the [Indian Statistical Institute Delhi centre](https
 - Project Fellow, Harish-Chandra Research Institute 2017-2018
 - Master of Science, Indian Institute of Technology Kharagpur 2014-2016
 - Bachelor of Science, University of Allahabad 2011-2014
-
-
-and ![Image](/home/mohit/Desktop)
