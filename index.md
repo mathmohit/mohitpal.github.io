@@ -1,5 +1,5 @@
 # Welcome to my Homepage!
-![M](https://github.com/mathmohit/Mohit-Pal/blob/gh-pages/mohit_pic.jpg)
+![Sep 2015](https://github.com/mathmohit/Mohit-Pal/blob/gh-pages/mohit_pic.jpg)
 
 
 ## About me
