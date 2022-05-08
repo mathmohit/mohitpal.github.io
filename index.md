@@ -1,4 +1,4 @@
-![mohit_pic](https://user-images.githubusercontent.com/32314013/167313754-8985fe75-62e3-4a7c-9a00-572210ce2f11.jpg = 250*250)
+![mohit_pic](https://user-images.githubusercontent.com/32314013/167313754-8985fe75-62e3-4a7c-9a00-572210ce2f11.jpg)
 # Welcome to my Homepage!
 
 ## About me
