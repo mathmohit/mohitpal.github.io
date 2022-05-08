@@ -12,7 +12,10 @@ I am a visiting student at the [Indian Statistical Institute Delhi centre](https
 
 ## Educational Background
 
-- Ph.D. in Mathematics, Indian Institute of Technology Jammu 2018-2021
-- Project Fellow, Harish-Chandra Research Institute 2017-2018
-- Master of Science, Indian Institute of Technology Kharagpur 2014-2016
-- Bachelor of Science, University of Allahabad 2011-2014
+- Apr'22-till date, Visiting Student, Indian Institute of Technology Delhi.
+- Dec'21-Mar'22, Project Fellow, Indian Institute of Technology Jammu.
+- July'18-Oct'21, Ph.D. in Mathematics, Indian Institute of Technology Jammu.
+- July'18-May'19, Visiting Student, Indian Institute of Technology Delhi.
+- 2017-2018, Project Fellow, Harish-Chandra Research Institute.
+- 2014-2016, Master of Science, Indian Institute of Technology Kharagpur.
+- 2011-2014, Bachelor of Science, University of Allahabad.
