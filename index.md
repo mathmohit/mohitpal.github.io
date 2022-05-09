@@ -21,12 +21,13 @@ I am a visiting student at the Indian Statistical Institute Delhi, working with 
 - 2011-2014, Bachelor of Science, [University of Allahabad](https://www.allduniv.ac.in/).
 
 ## Publications 
-- N. Fernando, S. U. Hasan, M. Pal, _Dembowski-Ostrom polynomials and reversed Dickson polynomials_, [Discret. Appl. Math.](https://doi.org/10.1016/j.dam.2021.03.012) 298 (2021), 66--79.
 
-- S. U. Hasan, M. Pal, C. Riera, P. Stănică, _On the c-differential uniformity of certain maps over finite fields_, [Des. Codes Cryptogr.](https://doi.org/10.1007/s10623-020-00812-0) 89(2) (2021), 221--239.
+- S. U. Hasan, M. Pal, P. Stănică, _The c-boomerang connectivity table for the Gold function in even characteristic_, [Cryptogr. Commun.](https://doi.org/10.1007/s12095-022-00573-8) (2022). (To appear)
+
+- S. U. Hasan, M. Pal, P. Stănică, _The c-differential uniformity and boomerang uniformity of some permutation polynomials_, [IEEE Trans. Inf. Theory.](https://doi.org/10.1109/TIT.2021.3123104) 68(1) (2022), 679--691.
 
 - S. U. Hasan, M. Pal, P. Stănică, _Boomerang uniformity of a class of power maps_, [Des. Codes Cryptogr.](https://doi.org/10.1007/s10623-021-00944-x) 89(11) (2021), 2627--2636.
 
-- S. U. Hasan, M. Pal, P. Stănică, _The c-differential uniformity and boomerang uniformity of some permutation polynomials_, [IEEE Trans. Inf. Theory.](https://doi.org/10.1109/TIT.2021.3123104) 68(1) (2022), 679--691. 
+- S. U. Hasan, M. Pal, C. Riera, P. Stănică, _On the c-differential uniformity of certain maps over finite fields_, [Des. Codes Cryptogr.](https://doi.org/10.1007/s10623-020-00812-0) 89(2) (2021), 221--239. 
 
-- S. U. Hasan, M. Pal, P. Stănică, _The c-boomerang connectivity table for the Gold function in even characteristic_, [Cryptogr. Commun.](https://doi.org/10.1007/s12095-022-00573-8) (2022). (To appear)
+- N. Fernando, S. U. Hasan, M. Pal, _Dembowski-Ostrom polynomials and reversed Dickson polynomials_, [Discret. Appl. Math.](https://doi.org/10.1016/j.dam.2021.03.012) 298 (2021), 66--79.
