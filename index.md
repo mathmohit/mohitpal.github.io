@@ -20,9 +20,9 @@ I am a visiting student at the Indian Statistical Institute Delhi, working with 
 - 2014-2016, Master of Science, [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/).
 - 2011-2014, Bachelor of Science, [University of Allahabad](https://www.allduniv.ac.in/).
 
-## Publications 
+## Publication (in reverse chronological order)
 
-- S. U. Hasan, M. Pal, P. Stănică, _The c-boomerang connectivity table for the Gold function in even characteristic_, [Cryptogr. Commun.](https://doi.org/10.1007/s12095-022-00573-8) (2022). (To appear)
+- S. U. Hasan, M. Pal, P. Stănică, _The binary Gold function and its c-boomerang connectivity table_, [Cryptogr. Commun.](https://doi.org/10.1007/s12095-022-00573-8) (2022). (To appear)
 
 - S. U. Hasan, M. Pal, P. Stănică, _The c-differential uniformity and boomerang uniformity of some permutation polynomials_, [IEEE Trans. Inf. Theory.](https://doi.org/10.1109/TIT.2021.3123104) 68(1) (2022), 679--691.
 
