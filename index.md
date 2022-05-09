@@ -19,3 +19,8 @@ I am a visiting student at the Indian Statistical Institute Delhi, working with 
 - 2017-2018, Project Fellow, [Harish-Chandra Research Institute Allahabad](http://www.hri.res.in/).
 - 2014-2016, Master of Science, [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/).
 - 2011-2014, Bachelor of Science, [University of Allahabad](https://www.allduniv.ac.in/).
+
+## Publications 
+- N. Fernando, S. U. Hasan, M. Pal, _Dembowski-Ostrom polynomials and reversed Dickson polynomials_, [Discret. Appl. Math.](https://doi.org/10.1016/j.dam.2021.03.012) 298 (2021), 66--79.
+
+- S. U. Hasan, M. Pal, C. Riera, P. Stanica, _On the c-differential uniformity of certain maps over finite fields_, [Des. Codes Cryptogr.](https://doi.org/10.1007/s10623-020-00812-0) 89(2) (2021), 221--239.
