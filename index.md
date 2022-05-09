@@ -1,5 +1,3 @@
-# Welcome to my Homepage!
-
 ## About me
 I am a visiting student at the Indian Statistical Institute Delhi, working with [Prof. Shanta Laishram](https://www.isid.ac.in/~shanta/about.html). I recieved my Ph.D. degree in Mathematics from the Indian Institute of Technology Jammu, where I wrote my thesis under the supervision of [Dr. Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/). During my Ph.D., I spent a wonderful year at the Indian Institute of Technology Delhi for my Ph.D. course work. Prior to that, I was a project fellow at the Harish Chandra Research Institute Allahabad, where I worked under the mentorship of [Prof. Kalyan Chakraborty](http://www.hri.res.in/~kalyan/) and [Prof. R. Thangadurai](http://www.hri.res.in/~thanga/). I received my M.Sc degree in Mathematics from the Indian Institute of Technology Kharagpur, where I wrote my master's thesis under the supervision of [Prof. Ratna Dutta](http://www.facweb.iitkgp.ac.in/~ratna/). I recieved my B.Sc Degree from the University of Allahabad.
 
