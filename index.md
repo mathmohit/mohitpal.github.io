@@ -31,3 +31,12 @@ I am a visiting student at the Indian Statistical Institute Delhi, working with 
 - S. U. Hasan, M. Pal, C. Riera, P. Stănică, _On the c-differential uniformity of certain maps over finite fields_, [Des. Codes Cryptogr.](https://doi.org/10.1007/s10623-020-00812-0) 89(2) (2021), 221--239. 
 
 - N. Fernando, S. U. Hasan, M. Pal, _Dembowski-Ostrom polynomials and reversed Dickson polynomials_, [Discret. Appl. Math.](https://doi.org/10.1016/j.dam.2021.03.012) 298 (2021), 66--79.
+
+
+## Participation in Schools/Workshops/Conferences
+
+- [The 6th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2021/), Rosendal, Norway 06-10 September 2021.
+- [International Workshop on Cryptography and Coding Theory](https://sites.google.com/view/iwcc2021/), SGGS Institute of Engineering and Technology, Nanded, India, 08-12 March 2021.
+- [Annual Foundation School-III](https://www.ncmath.org/archives/atms/2019/afs-iii/afsiii), NISER Bhubaneswar, India 01-27 July 2019.
+- [Annual Foundation School-I](https://www.atmschools.org/school/2019/afs-i/afsi-allahabad), HRI Allahabad, India 06 May - 01 June 2019.
+- [Summer Program in Mathematics](https://www.hri.res.in/~spim/2015/), HRI Allahabad, India 08-26 June 2015.
