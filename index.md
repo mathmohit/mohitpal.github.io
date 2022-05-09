@@ -3,9 +3,9 @@ I am a visiting student at the Indian Statistical Institute Delhi, working with 
 
 ## Research Interests:
 
-**_Cryptography_**: Boomerang uniformity, Differential uniformity, PN functions, APN functions
+**Cryptography**: Boomerang uniformity, Differential uniformity, PN functions, APN functions
 
-**_Finite Fields_**: Permutation polynomials, Linearized polynomials, Planar functions
+**Finite Fields**: Permutation polynomials, Linearized polynomials, Planar functions
 
 ## Educational Background:
 
