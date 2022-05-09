@@ -49,5 +49,17 @@ I am a visiting student at the Indian Statistical Institute Delhi, working with 
 
 ## Erdős Number:
 
-- My Erdős Number is: 3 (Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Carl Pomerance](https://math.dartmouth.edu/~carlp/) --> Erdős, Paul).
-- Erdős Number Project.
+- My Erdős Number is: 3 
+
+Mohit Pal --> [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/) --> [Stephen D. Cohen](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4cdce8e28b90) --> [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s).
+
+Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Carl Pomerance](https://math.dartmouth.edu/~carlp/) --> [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s).
+
+
+- [Erdős Number Project](https://oakland.edu/enp/).
+
+
+## Mathematics Genealogy:
+
+- My Mathematics Genealogy: [Click Here](https://www.mathgenealogy.org/id.php?id=280203).
+- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/).
