@@ -4,3 +4,4 @@ languageCode: en-us
 paginate: 2
 Copyright: © Mohit Pal 2022
 canonifyurls: true
+baseURL: https://mohitpal.github.io/
