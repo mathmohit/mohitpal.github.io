@@ -25,17 +25,17 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 
 ## Publication (in reverse chronological order):
 
-- S. U. Hasan, M. Pal, _Dembowski-Ostrom polynomials and Dickson polynomials_, [Adv. Math. Commun. ](https://doi.org/10.3934/amc.2022068) (2022). (To appear)
+- Sartaj Ul Hasan, Mohit Pal, [Dembowski-Ostrom polynomials and Dickson polynomials](https://doi.org/10.3934/amc.2022068), _Adv. Math. Commun._ (2022). (To appear)
 
-- S. U. Hasan, M. Pal, P. Stănică, _The binary Gold function and its c-boomerang connectivity table_, [Cryptogr. Commun.](https://doi.org/10.1007/s12095-022-00573-8) (2022). (To appear)
+- Sartaj Ul Hasan, Mohit Pal, Pantelimon Stănică, [The binary Gold function and its c-boomerang connectivity table](https://doi.org/10.1007/s12095-022-00573-8), _Cryptogr. Commun._ (2022). (To appear)
 
-- S. U. Hasan, M. Pal, P. Stănică, _The c-differential uniformity and boomerang uniformity of some permutation polynomials_, [IEEE Trans. Inf. Theory.](https://doi.org/10.1109/TIT.2021.3123104) 68(1) (2022), 679--691.
+- Sartaj Ul Hasan, Mohit Pal, Pantelimon Stănică, [The c-differential uniformity and boomerang uniformity of some permutation polynomials](https://doi.org/10.1109/TIT.2021.3123104), _IEEE Trans. Inf. Theory._ 68(1) (2022), 679--691.
 
-- S. U. Hasan, M. Pal, P. Stănică, _Boomerang uniformity of a class of power maps_, [Des. Codes Cryptogr.](https://doi.org/10.1007/s10623-021-00944-x) 89(11) (2021), 2627--2636.
+- Sartaj Ul Hasan, Mohit Pal, Pantelimon Stănică, [Boomerang uniformity of a class of power maps](https://doi.org/10.1007/s10623-021-00944-x), _Des. Codes Cryptogr._ 89(11) (2021), 2627--2636.
 
-- S. U. Hasan, M. Pal, C. Riera, P. Stănică, _On the c-differential uniformity of certain maps over finite fields_, [Des. Codes Cryptogr.](https://doi.org/10.1007/s10623-020-00812-0) 89(2) (2021), 221--239. 
+- Sartaj Ul Hasan, Mohit Pal, Constanza Susana Riera, Pantelimon Stănică, [On the c-differential uniformity of certain maps over finite fields](https://doi.org/10.1007/s10623-020-00812-0), _Des. Codes Cryptogr._ 89(2) (2021), 221--239. 
 
-- N. Fernando, S. U. Hasan, M. Pal, _Dembowski-Ostrom polynomials and reversed Dickson polynomials_, [Discret. Appl. Math.](https://doi.org/10.1016/j.dam.2021.03.012) 298 (2021), 66--79.
+- Neranga Fernando, Sartaj Ul Hasan, Mohit Pal, [Dembowski-Ostrom polynomials and reversed Dickson polynomials](https://doi.org/10.1016/j.dam.2021.03.012), _Discret. Appl. Math._ 298 (2021), 66--79.
 
 
 ## Participation in Schools/Workshops/Conferences:
@@ -49,7 +49,9 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 - [Summer Program in Mathematics](https://www.hri.res.in/~spim/2015/), HRI Allahabad, India 08-26 June 2015.
 
 
-## Coauthors (in alphabetical order of last names):
+## Coauthors (author naming convention: [culture statement](http://www.ams.org/profession/leaders/CultureStatement04.pdf)):
+
+
 
 - [Neranga Fernando](https://www.math.cmu.edu/~fneranga/)
 - [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/)
