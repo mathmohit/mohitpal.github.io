@@ -27,7 +27,7 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 
 - Sartaj Ul Hasan, Mohit Pal, [Dembowski-Ostrom polynomials and Dickson polynomials](https://doi.org/10.3934/amc.2022068), _Adv. Math. Commun._ (2022). (To appear)
 
-- Sartaj Ul Hasan, Mohit Pal, Pantelimon Stănică, [The binary Gold function and its c-boomerang connectivity table](https://doi.org/10.1007/s12095-022-00573-8), _Cryptogr. Commun._ (2022). (To appear)
+- Sartaj Ul Hasan, Mohit Pal, Pantelimon Stănică, [The binary Gold function and its c-boomerang connectivity table](https://doi.org/10.1007/s12095-022-00573-8), _Cryptogr. Commun._ 14(6) (2022) 1257--1280.
 
 - Sartaj Ul Hasan, Mohit Pal, Pantelimon Stănică, [The c-differential uniformity and boomerang uniformity of some permutation polynomials](https://doi.org/10.1109/TIT.2021.3123104), _IEEE Trans. Inf. Theory._ 68(1) (2022), 679--691.
 
