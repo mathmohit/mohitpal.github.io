@@ -44,7 +44,7 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 - [The 7th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2022/), Balestrand, Norway 11-16 September 2022.
 - [The Ernst Selmer International Workshop](https://boolean.w.uib.no/the-ernst-selmer-international-workshop/), Geiranger, Norway 21-27 August 2022.
 - [The 6th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2021/), Rosendal, Norway 06-10 September 2021.
-- [International Workshop on Cryptography and Coding Theory](https://sites.google.com/view/iwcc2021/), SGGS Institute of Engineering and Technology, Nanded, India, 08-12 March 2021.
+- [International Workshop on Cryptography and Coding Theory](https://sites.google.com/view/iwcc2021/), Nanded, India 08-12 March 2021.
 - [Annual Foundation School-III](https://www.ncmath.org/archives/atms/2019/afs-iii/afsiii), NISER Bhubaneswar, India 01-27 July 2019.
 - [Annual Foundation School-I](https://www.atmschools.org/school/2019/afs-i/afsi-allahabad), HRI Allahabad, India 06 May - 01 June 2019.
 - [Summer Program in Mathematics](https://www.hri.res.in/~spim/2015/), HRI Allahabad, India 08-26 June 2015.
