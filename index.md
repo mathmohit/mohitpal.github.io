@@ -40,6 +40,7 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 
 ## Participation in Schools/Workshops/Conferences:
 
+- [International Conference on Finite Fields and Their Applications](https://org.uib.no/selmer/fq15/), Paris, France 19-23 June 2023.
 - [Symmetric Techniques for Advanced Protocols](https://who.paris.inria.fr/Leo.Perrin/rescale/stap-23.html), Lyon, France 22-23 April 2023.
 - [The 7th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2022/), Balestrand, Norway 11-16 September 2022.
 - [The Ernst Selmer International Workshop](https://boolean.w.uib.no/the-ernst-selmer-international-workshop/), Geiranger, Norway 21-27 August 2022.
