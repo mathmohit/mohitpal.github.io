@@ -1,4 +1,4 @@
-![AABC](pic.jpeg)
+
 
 <img src="pic.jpeg" width=50% height=50%>
 
