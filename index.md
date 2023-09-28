@@ -1,5 +1,7 @@
 ![AABC](pic.jpeg)
 
+<img src="pic.jpeg" width=50% height=50%>
+
 ## About Me:
 I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lilya Budaghyan](https://www.uib.no/en/persons/Lilya.Budaghyan) is my host advisor. I recieved my Ph.D. degree in Mathematics from the Indian Institute of Technology Jammu, where I wrote my thesis under the supervision of [Dr. Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/). Prior to that, I was a project fellow at the Harish Chandra Research Institute Allahabad, where I worked under the mentorship of [Prof. Kalyan Chakraborty](http://www.hri.res.in/~kalyan/) and [Prof. R. Thangadurai](http://www.hri.res.in/~thanga/). I received my M.Sc degree in Mathematics from the Indian Institute of Technology Kharagpur, where I wrote my master's thesis under the supervision of [Prof. Ratna Dutta](http://www.facweb.iitkgp.ac.in/~ratna/). I recieved my B.Sc Degree from the University of Allahabad.
 
