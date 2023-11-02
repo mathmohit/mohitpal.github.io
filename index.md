@@ -36,6 +36,11 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 - Neranga Fernando, Sartaj Ul Hasan, Mohit Pal, [Dembowski-Ostrom polynomials and reversed Dickson polynomials](https://doi.org/10.1016/j.dam.2021.03.012), _Discret. Appl. Math._ 298 (2021), 66--79.
 
 
+## Reviewer for Journals
+
+  - [Applicable Algebra in Engineering, Communication and Computing](https://www.springer.com/journal/200)
+
+
 ## Participation in Schools/Workshops/Conferences:
 
 - [International Conference on Finite Fields and Their Applications](https://org.uib.no/selmer/fq15/), Paris, France 19-23 June 2023.
