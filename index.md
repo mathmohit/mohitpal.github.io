@@ -93,3 +93,9 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 <div class="This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute">
   <p>This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute. This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute. This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute. This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute. </p>
 </div>
+
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+  <p> cfvghfjjk <p>
+</div>
