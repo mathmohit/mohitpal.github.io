@@ -39,6 +39,10 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 ## Reviewer for Journals
 
   - [Applicable Algebra in Engineering, Communication and Computing](https://www.springer.com/journal/200)
+  - [Cryptography and Communications](https://www.springer.com/journal/12095)
+  - [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics)
+  - [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
+  - [Journal of Algebra and Its Applications](https://www.worldscientific.com/worldscinet/jaa)
 
 
 ## Participation in Schools/Workshops/Conferences:
