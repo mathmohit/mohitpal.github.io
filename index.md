@@ -91,5 +91,5 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 
 <button type="button" class="collapsible">DISCLAIMER</button>
 <div class="This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute">
-  <p>Lorem ipsum...</p>
+  <p>This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute. This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute. This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute. This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute. </p>
 </div>
