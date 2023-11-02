@@ -89,7 +89,7 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 
 **DISCLAIMER:** This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
 
-<button type="button" class="collapsible">Open Collapsible</button>
+<button type="button" class="collapsible">DISCLAIMER</button>
 <div class="This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute">
   <p>Lorem ipsum...</p>
 </div>
