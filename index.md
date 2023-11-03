@@ -73,9 +73,9 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 
 - My Erdős Number is: 3 
 
-Mohit Pal --> [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/) --> [Stephen D. Cohen](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4cdce8e28b90) --> [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s).
+    Mohit Pal --> [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/) --> [Stephen D. Cohen](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4cdce8e28b90) --> [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s).
 
-Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Carl Pomerance](https://math.dartmouth.edu/~carlp/) --> [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s).
+    Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Carl Pomerance](https://math.dartmouth.edu/~carlp/) --> [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s).
 
 
 - [Erdős Number Project](https://oakland.edu/enp/).
