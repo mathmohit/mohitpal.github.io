@@ -89,3 +89,18 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 
 **DISCLAIMER:** This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
