@@ -91,7 +91,13 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary> **DISCLAIMER:** </summary>
+
+</details>
+
+<details>
+
+<summary> Tips for collapsed sections </summary>
 
 ### You can add a header
 
