@@ -89,14 +89,7 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 
 **DISCLAIMER:** This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
 
-<details>
-  <summary>DISCLAIMER:</summary>
-  
-  ### DISCLAIMER:
 
-  This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
-
-  <\details>
 
 <details>
   <summary>Mathematics Genealogy: </summary>
@@ -104,5 +97,14 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
   ### Mathematics Genealogy:
   - My Mathematics Genealogy: [Click Here](https://www.mathgenealogy.org/id.php?id=280203).
   - [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/).
+
+</details>
+
+<details>
+  <summary>DISCLAIMER:</summary>
+  
+  ### DISCLAIMER:
+
+  This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
 
 </details>
