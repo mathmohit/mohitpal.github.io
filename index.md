@@ -91,6 +91,7 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 
 <details>
   <summary>Mathematics Genealogy:</summary>
+  ## My Mathematics Genealogy:
   - My Mathematics Genealogy: [Click Here](https://www.mathgenealogy.org/id.php?id=280203).
   - [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/).
 </details>
