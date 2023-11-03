@@ -68,31 +68,8 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 - [Constanza Susana Riera](https://www.hvl.no/en/employee/?user=Constanza.Susana.Riera)
 - [Pantelimon Stănică](https://faculty.nps.edu/pstanica/)
 
-
-<details>
-  <summary>Participation in Schools/Workshops/Conferences: </summary>
-
-  ### Participation in Schools/Workshops/Conferences:
-   - [The 8th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2023/), Voss, Norway 03-08 September 2023.
-   - [International Conference on Finite Fields and Their Applications](https://org.uib.no/selmer/fq15/), Paris, France 19-23 June 2023.
-   - [Symmetric Techniques for Advanced Protocols](https://who.paris.inria.fr/Leo.Perrin/rescale/stap-23.html), Lyon, France 22-23 April 2023.
-   - [The 7th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2022/), Balestrand, Norway 11-16 September 2022.
-   - [The Ernst Selmer International Workshop](https://boolean.w.uib.no/the-ernst-selmer-international-workshop/), Geiranger, Norway 21-27 August 2022.
-   - [The 6th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2021/), Rosendal, Norway 06-10 September 2021.
-   - [International Workshop on Cryptography and Coding Theory](https://sites.google.com/view/iwcc2021/), Nanded, India 08-12 March 2021.
-   - [Annual Foundation School-III](https://www.ncmath.org/archives/atms/2019/afs-iii/afsiii), NISER Bhubaneswar, India 01-27 July 2019.
-   - [Annual Foundation School-I](https://www.atmschools.org/school/2019/afs-i/afsi-allahabad), HRI Allahabad, India 06 May - 01 June 2019.
-   - [Summer Program in Mathematics](https://www.hri.res.in/~spim/2015/), HRI Allahabad, India 08-26 June 2015.
- 
-
-</details>
-
-
-
-<details>
-  <summary>Erdős Number: </summary>
   
-  ### Erdős Number:
+  ## Erdős Number:
   - My Erdős Number is: 3 
 
 Mohit Pal --> [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/) --> [Stephen D. Cohen](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4cdce8e28b90) --> [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s).
@@ -102,28 +79,14 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 
 - [Erdős Number Project](https://oakland.edu/enp/).
 
-</details>
-
-
-
-<details>
-  <summary>Mathematics Genealogy: </summary>
   
-  ### Mathematics Genealogy:
+  ## Mathematics Genealogy:
   - My Mathematics Genealogy: [Click Here](https://www.mathgenealogy.org/id.php?id=280203).
   - [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/).
 
-</details>
 
-
-
-
-
-<details>
-  <summary>DISCLAIMER:</summary>
+  ## DISCLAIMER:
   
-  ### DISCLAIMER:
-
   This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
 
-</details>
+
