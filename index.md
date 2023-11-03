@@ -96,6 +96,8 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 
   This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
 
+  <\details>
+
 <details>
   <summary>Mathematics Genealogy: </summary>
   
