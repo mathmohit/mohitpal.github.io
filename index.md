@@ -90,14 +90,20 @@ Mohit Pal --> [Pantelimon Stănică](https://faculty.nps.edu/pstanica/) --> [Car
 **DISCLAIMER:** This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
 
 <details>
-<summary> Mathematics Genealogy: </summary>
-- My Mathematics Genealogy: [Click Here](https://www.mathgenealogy.org/id.php?id=280203).
-- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/).
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
 
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
 </details>
 
-<details>
-<summary> DISCLAIMER: </summary>
-This is a personal home page. Opinions expressed here do not represent the official views of my Organisation/Institute.
-</details>
 
