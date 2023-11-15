@@ -70,7 +70,7 @@ I am a postdoctoral fellow at the University of Bergen Norway, where [Prof. Lily
 
   
   ## Erdős Number:
-  - My Erdős Number is: 3 
+- My Erdős Number is: 3 
 
 Mohit Pal --> [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/) --> [Stephen D. Cohen](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4cdce8e28b90) --> [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s).
 
