@@ -1,3 +1,6 @@
+layout: default
 title: Mohit Pal
 description : Welcome to my homepage!
+nav_order: 5
+has_children: true
 Copyright: © Mohit Pal 2024
